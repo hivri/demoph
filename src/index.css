@@ -1,0 +1,34 @@
+#bar{
+  background-color: green;
+}
+img{
+  margin: 10px;
+}
+select{
+  margin: 10px;
+  width: 400px;
+  padding: 2%;
+}
+#s{
+  color: darkgreen;
+}
+#t{
+  color: darkblue;
+}
+#para1{
+  width: 700px;
+}
+body{
+  background-image: url('./src/assets/bg.jpeg');
+  background-size: cover; 
+  background-position: center; 
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+p{
+  display: inline-block;
+}
+#par{
+  display: flex;
+  gap: 10px;
+}
