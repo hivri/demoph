@@ -1,5 +1,7 @@
 #bar{
   background-color: green;
+  margin: 10px;
+  display: flex;
 }
 img{
   margin: 10px;
