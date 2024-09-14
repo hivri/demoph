@@ -19,7 +19,7 @@ select{
   width: 700px;
 }
 body{
-  background-image: url('./src/assets/bg.jpeg');
+  background-image: url('/bg.jpeg');
   background-size: cover; 
   background-position: center; 
   background-repeat: no-repeat;
