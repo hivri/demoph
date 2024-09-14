@@ -42,7 +42,7 @@ case 'az':
 return(
 <>
       <div id="bar">
-      <img src={img}/>
+      <img src={img} id="l"/>
   <select id="s" onChange={(e)=>{setv(e.target.value);
 disp(e);}} value={v}>
     <option value="">SERVICES</option>
